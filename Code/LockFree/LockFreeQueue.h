@@ -1,0 +1,1 @@
+void PrintNum(unsigned num);
